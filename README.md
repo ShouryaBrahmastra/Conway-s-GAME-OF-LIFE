@@ -1,4 +1,4 @@
-# Conway-s-GAME-OF-LIFE---Python
+# Conway's Game of Life in Python
 
 An implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 
@@ -11,12 +11,12 @@ An implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conwa
 "Black colour" : Death
 "White colour" : Life
 
-The box of pixels (cells) of the screen represent the cells in the Game of Life. Clicking a cell will turn it black. White cells represent "living" cells.
+The box of pixels (cells) of the screen represent the cells in the Game of Life. Clicking a cell will turn it black. White cells represent "living" cells. <br>
 Living and dead cells will change over time, following the rules of Conway's Game of Life:
 
-1.>Any live cell with two or three live neighbours survives.
-2.>Any dead cell with three live neighbours becomes a live cell.
-3.>All other live cells die in the next generation. Similarly, all other dead cells stay dead.
+1.>Any live cell with two or three live neighbours survives. <br>
+2.>Any dead cell with three live neighbours becomes a live cell.  <br>
+3.>All other live cells die in the next generation. Similarly, all other dead cells stay dead. <br>
 
 ---
 
