@@ -1,4 +1,4 @@
-# Conway-s-GAME-OF-LIFE---Python
+# Conway's Game of Life in Python
 
 An implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 
